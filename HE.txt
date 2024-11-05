@@ -286,15 +286,15 @@ iHOT爱院线HD,http://[2409:8087:5e08:24::11]:6610/000000001000/200000000400000
 江苏国际,http://47.109.155.164/%E5%B0%8F%E6%9B%BE4859/%E6%B1%9F%E8%8B%8F.php?id=jsgj
 
 北京,#genre#
-北京卫视,http://110.40.33.162:99/zb/bjws.php?id=ws＄成都电信
-北京影视,http://110.40.33.162:99/zb/bjws.php?id=ys＄成都电信
-北京纪实科教,http://110.40.33.162:99/zb/bjws.php?id=kj＄成都电信
-北京财经,http://110.40.33.162:99/zb/bjws.php?id=cj＄成都电信
-北京少儿,http://110.40.33.162:99/zb/bjws.php?id=se＄成都电信
-北京文艺,http://110.40.33.162:99/zb/bjws.php?id=wy＄成都电信
-北京生活,http://110.40.33.162:99/zb/bjws.php?id=sh＄成都电信
-北京新闻,http://110.40.33.162:99/zb/bjws.php?id=xw＄成都电信
-北京体育休闲,http://110.40.33.162:99/zb/bjws.php?id=ty＄成都电信
+北京卫视,http://110.40.33.162:99/zb/bjws.php?id=ws
+北京影视,http://110.40.33.162:99/zb/bjws.php?id=ys
+北京纪实科教,http://110.40.33.162:99/zb/bjws.php?id=kj
+北京财经,http://110.40.33.162:99/zb/bjws.php?id=cj
+北京少儿,http://110.40.33.162:99/zb/bjws.php?id=se
+北京文艺,http://110.40.33.162:99/zb/bjws.php?id=wy
+北京生活,http://110.40.33.162:99/zb/bjws.php?id=sh
+北京新闻,http://110.40.33.162:99/zb/bjws.php?id=xw
+北京体育休闲,http://110.40.33.162:99/zb/bjws.php?id=ty
 
 四川,#genre#
 四川1-卫视,http://home.sunruilin.com:4443/udp/239.93.0.169:5140/sxtv.m3u8
