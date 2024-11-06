@@ -324,20 +324,21 @@ iHOT爱院线HD,http://[2409:8087:5e08:24::11]:6610/000000001000/200000000400000
 河南,#genre#
 河南卫视,http://gejianhua.7766.org:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 河南电视剧,http://gejianhua.7766.org:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-河南新闻,http://gejianhua.7766.org:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 河南都市,http://gejianhua.7766.org:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
+河南新闻,http://gejianhua.7766.org:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 河南法治,http://gejianhua.7766.org:9901/tsfile/live/0019_2.m3u8?key=txiptv&playlive=1&authid=0
 河南公共,http://gejianhua.7766.org:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 河南民生,http://gejianhua.7766.org:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
-河南乡村,http://gejianhua.7766.org:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 河南收藏天下,http://gejianhua.7766.org:9901/tsfile/live/0002_2.m3u8?key=txiptv&playlive=1&authid=0
+河南乡村,http://gejianhua.7766.org:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+河南中华功夫,http://gejianhua.7766.org:9901/tsfile/live/0109_2.m3u8?key=txiptv&playlive=1&authid=0
 河南戏曲,http://gejianhua.7766.org:9901/tsfile/live/0002_4.m3u8?key=txiptv&playlive=1&authid=0
 河南移动戏曲,http://gejianhua.7766.org:9901/tsfile/live/0003_2.m3u8?key=txiptv&playlive=1&authid=0
 河南IPTV,http://gejianhua.7766.org:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
-河南中华功夫,http://gejianhua.7766.org:9901/tsfile/live/0109_2.m3u8?key=txiptv&playlive=1&authid=0
+大美河南,http://gejianhua.7766.org:9901/tsfile/live/0002_3.m3u8?key=txiptv&playlive=1&authid=0
+睛彩中原,http://gejianhua.7766.org:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 漯河综合,http://gejianhua.7766.org:9901/tsfile/live/0107_2.m3u8?key=txiptv&playlive=1&authid=0
-睛彩中原[1920x1080],http://gejianhua.7766.org:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
-沈丘综合[768x576],http://gejianhua.7766.org:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+沈丘综合,http://gejianhua.7766.org:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 
 芒果,#genre#
 电影轮播,http://zby.xjqxz.top/lljdy/live.m3u8
