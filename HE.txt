@@ -370,25 +370,6 @@ iHOT爱院线HD,http://[2409:8087:5e08:24::11]:6610/000000001000/200000000400000
 漯河综合,http://gejianhua.7766.org:9901/tsfile/live/0107_2.m3u8?key=txiptv&playlive=1&authid=0
 沈丘综合,http://gejianhua.7766.org:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 
-芒果,#genre#
-电影轮播,http://zby.xjqxz.top/lljdy/live.m3u8
-芒果TV1,http://zby.xjqxz.top/zh07/live.m3u8
-芒果TV2,http://zby.xjqxz.top/zh08/live.m3u8
-芒果TV3,http://zby.xjqxz.top/zh09/live.m3u8
-芒果TV4,http://zby.xjqxz.top/live18/live.m3u8
-芒果TV5,http://zby.xjqxz.top/gzwxj/live.m3u8
-芒果TV6,http://zby.xjqxz.top/zh04/live.m3u8
-芒果TV7,http://zby.xjqxz.top/gzdsj2/live.m3u8
-芒果TV8,http://zby.xjqxz.top/gzdsj3/live.m3u8
-芒果TV9,http://zby.xjqxz.top/dzzypd5/live.m3u8
-芒果TV10,http://zby.xjqxz.top/kzzypd/live.m3u8
-芒果TV11,http://zby.xjqxz.top/dzzypd2/live.m3u8
-芒果TV12,
-芒果TV13,http://zby.xjqxz.top/gcwx2/live.m3u8
-芒果TV14,http://zby.xjqxz.top/gcwx3/live.m3u8
-芒果TV15,http://zby.xjqxz.top/gcwx4/live.m3u8
-芒果TV16,http://zby.xjqxz.top/gcwx5/live.m3u8
-
 黑龙江,#genre#
 黑龙江卫视HD,http://39.134.65.213/PLTV/88888888/224/3221226122/1.m3u8
 黑龙江卫视HD,http://39.134.65.243/PLTV/88888888/224/3221225985/1.m3u8
