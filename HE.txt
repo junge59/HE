@@ -310,6 +310,15 @@ iHOT爱院线HD,http://[2409:8087:5e08:24::11]:6610/000000001000/200000000400000
 新海南,http://[2409:8087:5E00:0024::2C]:6610/200000001898/460000089800010090/1.m3u8?IASHttpSessionId=RR1015220230313123139003686
 
 江苏,#genre#
+江苏卫视,http://live.nctv.top/6688/jstv.php?id=jsws
+江苏城市,http://live.nctv.top/6688/jstv.php?id=jscs
+江苏综艺,http://live.nctv.top/6688/jstv.php?id=jszy
+江苏影视,http://live.nctv.top/6688/jstv.php?id=jsys
+江苏新闻,http://live.nctv.top/6688/jstv.php?id=jsxw
+江苏体育,http://live.nctv.top/6688/jstv.php?id=jsty
+优漫卡通,http://live.nctv.top/6688/jstv.php?id=ymkt
+江苏国际,http://live.nctv.top/6688/jstv.php?id=jsgj
+江苏教育,http://live.nctv.top/6688/jstv.php?id=jsjy
 南京新闻综合,http://live.nbs.cn/channels/njtv/xwpdb/nbs06.m3u8
 南京科教,http://live.nbs.cn/channels/njtv/jkpd/nbs06.m3u8
 南京文旅纪录,http://live.nbs.cn/channels/njtv/wljl/nbs24.m3u8
@@ -320,17 +329,30 @@ iHOT爱院线HD,http://[2409:8087:5e08:24::11]:6610/000000001000/200000000400000
 无锡都市资讯,http://stream.thmz.com/wxtv3/sd/live.m3u8?_upt=0a4d39a71732636342
 无锡生活,http://stream.thmz.com/wxtv4/sd/live.m3u8?_upt=f8614a911732636387
 无锡经济,http://stream.thmz.com/wxtv5/sd/live.m3u8?_upt=a00099db1732636414
+镇江扬中新闻综合,http://live.nctv.top/6688/jstv1.php?id=zjyzzh
+镇江扬中党建民生,http://live.nctv.top/6688/jstv1.php?id=zjyzdj
+连云港东海新闻综合,http://live.nctv.top/6688/jstv1.php?id=lygdhzh
+徐州贾汪新闻,http://live.nctv.top/6688/jstv1.php?id=xzjwxw
+徐州贾汪旅游,http://live.nctv.top/6688/jstv1.php?id=xzjwly
 
 北京,#genre#
 北京卫视,http://110.40.33.162:99/zb/bjws.php?id=ws
+北京卫视,http://live.nctv.top/6688/bjtv.php?id=bjws
 北京影视,http://110.40.33.162:99/zb/bjws.php?id=ys
+北京影视,http://live.nctv.top/6688/bjtv.php?id=bjys
 北京纪实科教,http://110.40.33.162:99/zb/bjws.php?id=kj
+北京纪实科教,http://live.nctv.top/6688/bjtv.php?id=bjjs
 北京财经,http://110.40.33.162:99/zb/bjws.php?id=cj
-北京少儿,http://110.40.33.162:99/zb/bjws.php?id=se
+北京财经,http://live.nctv.top/6688/bjtv.php?id=bjcj
+北京卡酷少儿,http://110.40.33.162:99/zb/bjws.php?id=se
+北京卡酷少儿,http://live.nctv.top/6688/bjtv.php?id=bjkk
 北京文艺,http://110.40.33.162:99/zb/bjws.php?id=wy
 北京生活,http://110.40.33.162:99/zb/bjws.php?id=sh
+北京生活,http://live.nctv.top/6688/bjtv.php?id=bjsh
 北京新闻,http://110.40.33.162:99/zb/bjws.php?id=xw
+北京新闻,http://live.nctv.top/6688/bjtv.php?id=bjxw
 北京体育休闲,http://110.40.33.162:99/zb/bjws.php?id=ty
+北京体育休闲,http://live.nctv.top/6688/bjtv.php?id=bjty
 
 四川,#genre#
 四川1-卫视,http://home.sunruilin.com:4443/udp/239.93.0.169:5140/sxtv.m3u8
